@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_regform" value="name:customerid;datatype:int,name:bank;datatype:string,name:branch;datatype:string,name:fullname;datatype:string,name:address;datatype:string,name:landmark;datatype:string,name:comment;datatype:string,name:address_exists;datatype:string,name:customer_resides;datatype:string,name:occupation;datatype:string,name:type1;datatype:string,name:type2;datatype:string,name:type3;datatype:string,name:type4;datatype:string,name:type5;datatype:string,name:rel_owner;datatype:string,name:area_profile;datatype:string,name:individual;datatype:string,name:cust_rel;datatype:string,name:telephone;datatype:string,name:certification;datatype:string,name:verifier;datatype:string,name:date;datatype:timestamp" />
+</info>
